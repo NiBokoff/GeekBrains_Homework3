@@ -3,8 +3,8 @@
 
 Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
-int temp = num
-int rev = 0
+int temp = num;
+int rev = 0;
 while (num > 0)
     {
         dig = num % 10;
